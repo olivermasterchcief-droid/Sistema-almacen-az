@@ -34,7 +34,6 @@ en un solo sistema de escritorio.
 
 ![Dashboard](Captura%201.jpeg)
 ![Gestión de Materiales](Captura%202.jpeg)
-![Rastreo de Cajas](Captura%203.jpeg)
 ![Ficha de Material](Captura%204.jpeg)
 ![Historial](Captura%205.jpeg)
 ![Pronóstico](Captura%206.jpeg)
